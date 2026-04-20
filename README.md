@@ -15,7 +15,7 @@ Models implemented:
 - `practical_usecase.py` - Predicts bankruptcy probability for individual firms
 
 ## Data
-Data sourced from the UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/365/polish+companies+bankruptcy+data
+Tomczak, S. (2016). Polish Companies Bankruptcy [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5F600.
 
 Code shown is for the T-1 (Year 5) dataset. The same procedure was repeated for Years 1–4 by changing the file path accordingly.
 
